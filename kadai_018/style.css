@@ -1,30 +1,16 @@
 #top {
     width: 800px;
     background-color: #dcc9f4;
-    padding: 20px 0;
-    margin: 0 auto;
 
-    display: flex;
-    justify-content: center;
-    gap: 20px;
+    margin: 20px auto;
+    text-align: center;
 }
 
 .top-child {
     width: 20%;
     background-color: #ffd9df;
-    text-align: center;
-}
-#middle {
-    width: 800px;
-    height: 800px;
-    background-color: #ffd9df;
 
-    margin: 20px auto;
-
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 20px;
+    display: inline-block;
 }
 #middle {
     width: 800px;
